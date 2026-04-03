@@ -69,9 +69,14 @@ I am a **Junior IA Engineer & Data Scientist** passionate about the full data li
 ---
 
 ### 📊 GitHub Stats
-![Khadija's Stats](https://github-readme-stats.vercel.app/api?username=khadija199904&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadija199904&layout=compact&theme=tokyonight)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadija199904&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Khadija's GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija199904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Let's Connect
