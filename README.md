@@ -59,30 +59,13 @@ I am a **Junior IA Engineer & Data Scientist** passionate about the full data li
 </a>
 </p>
 
-### 📂 Featured Projects
 
-* **HR-Pulse:** Full-Stack AI platform for NER skill extraction (Azure AI) and salary prediction (Scikit-learn).
-* **Eco-Agronomist IA:** Medallion data architecture (Bronze/Silver/Gold) using PySpark and Airflow for smart agriculture.
-* **RAG IT Support:** Automated support engine using LangChain and clustering, deployed on Kubernetes.
-* **Retention AI:** Turnover prediction tool with SHAP explainability and a GenAI assistant for HR action plans.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadija199904&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Khadija's GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija199904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
----
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/khadija-elabbioui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/khadija-elabbioui-308499216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://kaggle.com/khadijaelabbioui"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="mailto:khadijaelabbioui1999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
