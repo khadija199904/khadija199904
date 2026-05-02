@@ -62,11 +62,11 @@ I'm a junior **AI & Data Engineer** who works across the full data lifecycle —
 
 ---
 
-## `> ls ./stack`
+## `> stack`
 
 <br>
 
-** Languages**
+**⌨️ Languages**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,cpp,r,html,css&theme=dark&perline=6" />
